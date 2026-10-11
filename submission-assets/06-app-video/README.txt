@@ -1,0 +1,1 @@
+app-demo.webm is an actual screen recording of the production app: welcome screen, report prompt, sample TXT upload, document-context toggle, and new conversation. It has no audio or Gemini answers; no API key was configured. Record a full AI/voice demonstration after adding your key. Video is last in the asset order.

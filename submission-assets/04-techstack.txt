@@ -1,0 +1,1 @@
+Next.js 15; React 19; TypeScript; Tailwind CSS 3; Google Gemini API; Web Speech APIs; Lucide React; React Markdown; remark-gfm; pdf-parse; Mammoth; SheetJS; browser localStorage; Vercel hosting (planned).

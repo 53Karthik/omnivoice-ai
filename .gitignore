@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.env*
+!.env.example
+*.log
+*.tsbuildinfo
+.npm-cache/
+submission-assets.zip
+.capture-profile/
+.asset-tools/

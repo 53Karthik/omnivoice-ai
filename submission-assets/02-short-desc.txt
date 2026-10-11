@@ -1,0 +1,1 @@
+A Gemini-powered AI assistant with voice input, spoken answers, and document chat.
